@@ -29,7 +29,7 @@ Secret Access Key - Secret Access Key from creds
 ```
 
 
-#### Create a Pipeline
+#### Create a Pipeline (defined in this repo in **Jenkinsfile**
 
 ```
 pipeline {
